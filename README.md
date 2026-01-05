@@ -1,4 +1,4 @@
-# 🤖 PullRequest Reviewer Agent - Frontend Documentation
+# 🤖 PullRequest Reviewer Agent
 
 An **amazing, interactive, and beautiful** web interface for your AI-powered Pull Request Review Bot!
 
