@@ -4,6 +4,15 @@ An **amazing, interactive, and beautiful** web interface for your AI-powered Pul
 
 ## ✨ Features
 
+### 🚀 Functionality
+
+- Submit GitHub repository URL and PR number
+- AI-powered code review analysis
+- Automatic GitHub comment posting
+- Automatic Slack notifications
+- Display comprehensive review results
+- Status indicators for all operations
+
 ### 🎨 Stunning UI/UX
 
 - **Animated gradient backgrounds** with floating orbs
@@ -20,16 +29,6 @@ An **amazing, interactive, and beautiful** web interface for your AI-powered Pul
 - **Instant result display** with beautiful cards
 - **Easy form reset** to review multiple PRs
 - **Smooth scrolling** and page transitions
-
-### 🚀 Functionality
-
-- Submit GitHub repository URL and PR number
-- AI-powered code review analysis
-- Automatic GitHub comment posting
-- Automatic Slack notifications
-- Display comprehensive review results
-- Status indicators for all operations
-
 ## 📁 Project Structure
 
 ```
